@@ -292,9 +292,9 @@ graph LR
 
 <h3>💡 Open to collaborations, freelance projects, and full-time opportunities</h3>
 
-<h3>⭐️ If you find my projects interesting, consider starring them!</h3>
+<h4>⭐️ If you find my projects interesting, consider starring them!</h4>
 
-<h3>📧 Response time: Usually within 24 hours</h3>
+<h4>📧 Response time: Usually within 24 hours</h4>
 
 </div>
 
