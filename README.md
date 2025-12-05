@@ -155,11 +155,10 @@ I leverage advanced AI frameworks to maximize development efficiency and code qu
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
-[![Email](https://img.shields.io/badge/Email-pmo@tendencia.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmo@tendencia.ai)
+[![Email](https://img.shields.io/badge/Email-lramirez.ramos@iteso.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lramirez.ramos@iteso.mx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-foliox.site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
 
 <br>
-```typescript
 
 ---
 
