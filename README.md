@@ -290,20 +290,11 @@ graph LR
 
 ---
 
-<br>
+<h3>💡 Open to collaborations, freelance projects, and full-time opportunities</h3>
 
-### 💬 Let's Talk About
+<h3>⭐️ If you find my projects interesting, consider starring them!</h3>
 
-**DevOps best practices** • **Real-time data pipelines** • **Cloud infrastructure**  
-**AI-augmented development** • **System architecture** • **Scaling applications**
-
----
-
-<sub>💡 Open to collaborations, freelance projects, and full-time opportunities</sub>
-
-<sub>⭐️ If you find my projects interesting, consider starring them!</sub>
-
-<sub>📧 Response time: Usually within 24 hours</sub>
+<h3>📧 Response time: Usually within 24 hours</h3>
 
 </div>
 
