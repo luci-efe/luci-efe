@@ -239,28 +239,6 @@ graph LR
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Fernando's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luci-efe&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-</div>
-
-### 📈 Contributions Overview
-
-<div align="center">
-
-| 📦 Repositories | 🔀 Pull Requests | 💻 Contributions | ⭐ Stars |
-|:---------------:|:----------------:|:----------------:|:--------:|
-| **20+** public | **25+** merged | **257** last year | **2** earned |
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 <details open>
