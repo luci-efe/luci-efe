@@ -13,7 +13,7 @@ Building scalable systems with modern infrastructure and AI-powered workflows
 
 7th semester Computer Systems Engineering student at ITESO (graduating Dec 2026), passionate about cloud infrastructure, data pipelines, and scalable systems. After leading AI development teams, I discovered my true calling in hands-on engineering—building the systems that power innovation.
 
-**Currently:** Information Security Analyst @ Eternal Data | Former AI Systems Developer @ TendencIA
+**Currently:** Information Security Analyst @ Eternal Data | Former AI Systems Developer and Former Technical Project Manager @ TendencIA
 
 **What makes me different:** I combine deep technical skills with project management experience, specializing in **AI-augmented development workflows** using frameworks like OpenSpec and SpecKit for enhanced code quality and team collaboration.
 
@@ -122,9 +122,9 @@ I leverage advanced AI frameworks to maximize development efficiency and code qu
 
 <div align="center">
 
-![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Fernando's GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luci-efe&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luci-efe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -156,29 +156,44 @@ I leverage advanced AI frameworks to maximize development efficiency and code qu
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Kafka patterns for event-driven architectures
-- Kubernetes orchestration and service mesh
-- MLOps practices for production ML systems
-- Advanced Terraform patterns for multi-cloud deployments
-
----
-
 ## 📫 Let's Connect
+
+<div align="center">
+
+### I'm actively seeking opportunities in DevOps, Data Engineering, and Cloud Infrastructure
 ```typescript
 const fernando = {
-  location: "Guadalajara, Jalisco, Mexico",
+  location: "Guadalajara, Jalisco, Mexico 🇲🇽",
   education: "ITESO - Computer Systems Engineering (Dec 2026)",
   interests: ["DevOps", "Data Engineering", "Cloud Architecture", "AI Systems"],
   openTo: ["Software Engineer", "DevOps Engineer", "Data Engineer"],
-  contact: {
-    linkedin: "linkedin.com/in/fernando-ramos-654514262",
-    email: "pmo@tendencia.ai",
-    portfolio: "foliox.site/luci-efe"
-  }
+  currentFocus: "Building scalable systems with AI-augmented workflows"
 };
 ```
+
+<br>
+
+### 🌐 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
+[![Email](https://img.shields.io/badge/Email-pmo@tendencia.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmo@tendencia.ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-foliox.site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
+[![GitHub](https://img.shields.io/badge/GitHub-luci--efe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luci-efe)
+
+<br>
+
+### 💬 Let's Talk About
+
+✨ **DevOps best practices** | ⚡ **Real-time data pipelines** | ☁️ **Cloud infrastructure**  
+🤖 **AI-augmented development** | 🏗️ **System architecture** | 🚀 **Scaling applications**
+
+---
+
+<sub>💡 Open to freelance projects, collaborations, and full-time opportunities</sub>
+
+<sub>⭐️ If you find my projects interesting, consider starring them!</sub>
+
+</div>
 
 ---
 
