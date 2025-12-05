@@ -118,15 +118,20 @@ I leverage advanced AI frameworks to maximize development efficiency and code qu
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Fernando's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luci-efe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luci-efe&theme=tokyonight&hide_border=true)](https://github.com/luci-efe)
 
 </div>
+
+### 📈 Contributions
+
+- 📦 **20+** public repositories
+- 🔀 **25+** merged pull requests  
+- 💻 **257** contributions in the last year
+- ⭐ **2** stars across projects
 
 ---
 
@@ -156,44 +161,32 @@ I leverage advanced AI frameworks to maximize development efficiency and code qu
 
 ---
 
-## 📫 Let's Connect
+## 📫 Get In Touch
 
 <div align="center">
 
-### I'm actively seeking opportunities in DevOps, Data Engineering, and Cloud Infrastructure
+**Open to opportunities in DevOps, Data Engineering, and Cloud Infrastructure**
+
+Building scalable systems | AI-augmented workflows | Infrastructure as Code
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/-Fernando_Ramos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
+[![Email](https://img.shields.io/badge/-pmo@tendencia.ai-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pmo@tendencia.ai)
+[![Portfolio](https://img.shields.io/badge/-foliox.site/luci--efe-000000?style=flat-square&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
+
+<br>
 ```typescript
-const fernando = {
-  location: "Guadalajara, Jalisco, Mexico 🇲🇽",
-  education: "ITESO - Computer Systems Engineering (Dec 2026)",
-  interests: ["DevOps", "Data Engineering", "Cloud Architecture", "AI Systems"],
-  openTo: ["Software Engineer", "DevOps Engineer", "Data Engineer"],
-  currentFocus: "Building scalable systems with AI-augmented workflows"
-};
+// Currently based in Guadalajara, Mexico 🇲🇽
+// ITESO Computer Systems Engineering '26
+// Interested in: DevOps | Data Engineering | Cloud Architecture
 ```
 
-<br>
-
-### 🌐 Find Me Online
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
-[![Email](https://img.shields.io/badge/Email-pmo@tendencia.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmo@tendencia.ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-foliox.site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
-[![GitHub](https://img.shields.io/badge/GitHub-luci--efe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luci-efe)
-
-<br>
-
-### 💬 Let's Talk About
-
-✨ **DevOps best practices** | ⚡ **Real-time data pipelines** | ☁️ **Cloud infrastructure**  
-🤖 **AI-augmented development** | 🏗️ **System architecture** | 🚀 **Scaling applications**
+</div>
 
 ---
 
-<sub>💡 Open to freelance projects, collaborations, and full-time opportunities</sub>
-
-<sub>⭐️ If you find my projects interesting, consider starring them!</sub>
-
-</div>
+<sub>⭐️ From [luci-efe](https://github.com/luci-efe) | Feel free to reach out!</sub>
 
 ---
 
