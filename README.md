@@ -118,23 +118,6 @@ I leverage advanced AI frameworks to maximize development efficiency and code qu
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luci-efe&theme=tokyonight&hide_border=true)](https://github.com/luci-efe)
-
-</div>
-
-### 📈 Contributions
-
-- 📦 **20+** public repositories
-- 🔀 **25+** merged pull requests  
-- 💻 **257** contributions in the last year
-- ⭐ **2** stars across projects
-
----
-
 ## 💼 Professional Experience
 
 ### 🔹 AI Systems Developer & Technical PM | TendencIA (Nov 2024 - May 2025)
@@ -165,28 +148,18 @@ I leverage advanced AI frameworks to maximize development efficiency and code qu
 
 <div align="center">
 
-**Open to opportunities in DevOps, Data Engineering, and Cloud Infrastructure**
+### 🚀 Open to opportunities in DevOps, Data Engineering, and Cloud Infrastructure
 
-Building scalable systems | AI-augmented workflows | Infrastructure as Code
+*Building scalable systems | AI-augmented workflows | Infrastructure as Code*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-Fernando_Ramos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
-[![Email](https://img.shields.io/badge/-pmo@tendencia.ai-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pmo@tendencia.ai)
-[![Portfolio](https://img.shields.io/badge/-foliox.site/luci--efe-000000?style=flat-square&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
+[![Email](https://img.shields.io/badge/Email-pmo@tendencia.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmo@tendencia.ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-foliox.site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
 
 <br>
 ```typescript
-// Currently based in Guadalajara, Mexico 🇲🇽
-// ITESO Computer Systems Engineering '26
-// Interested in: DevOps | Data Engineering | Cloud Architecture
-```
-
-</div>
-
----
-
-<sub>⭐️ From [luci-efe](https://github.com/luci-efe) | Feel free to reach out!</sub>
 
 ---
 
