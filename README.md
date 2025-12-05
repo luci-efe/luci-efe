@@ -1,178 +1,427 @@
-<!-- HEADER SECTION -->
+<div align="center">
+
+# 👋 Hi, I'm Fernando Ramos
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Engineer;DevOps+%26+Data+Engineering;Building+Scalable+Systems;AI-Augmented+Development" alt="Typing SVG" />
+
+**Building scalable systems with modern infrastructure and AI-powered workflows**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lramirez.ramos@iteso.mx)
+
+<img src="https://komarev.com/ghpvc/?username=luci-efe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const fernando = {
+    location: "Guadalajara, Mexico 🇲🇽",
+    education: "ITESO - Computer Systems Engineering",
+    graduation: "December 2026",
+    currentRole: "Information Security Analyst @ Eternal Data",
+    previousRole: "AI Systems Developer & Technical PM @ TendencIA",
+    
+    passion: [
+        "Building scalable cloud infrastructure",
+        "Designing real-time data pipelines",
+        "AI-augmented development workflows",
+        "Infrastructure as Code"
+    ],
+    
+    differentiator: "Combining deep technical skills with project management " +
+                    "experience using OpenSpec & SpecKit frameworks"
+};
+```
+
+🎯 **What I Do:** After leading AI development teams, I discovered my true calling in hands-on engineering—building the systems that power innovation.
+
+🌟 **What Sets Me Apart:** I specialize in **AI-augmented development workflows** using OpenSpec and SpecKit, enabling 30% reduction in scope creep and seamless team collaboration.
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-<!-- Typing SVG: Título dinámico -->
+### Languages & Core Technologies
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26duration%3D3000%26pause%3D1000%26color%3D3B82F6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DFernando%2BRamos%3BDevOps%2B%2526%2BCloud%2BEngineer%3BData%2BEngineering%2B%2526%2BStreaming%3BBuilding%2BScalable%2BSystems" alt="Typing SVG" />
-</a>
+### DevOps & Cloud
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<h3>
-Transforming complex requirements into scalable infrastructure & data pipelines.
-</h3>
+### Data Engineering
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-<p>
-<i>Ex-Project Manager turned Engineer. I speak both Code and Business.</i>
-</p>
+### Frameworks & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<!-- SOCIAL BADGES - UNIFIED STYLE -->
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
-<p>
-<a href="https://linkedin.com/in/fernando-ramos-654514262">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://foliox.site/luci-efe">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-101010%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio"/>
-</a>
-<a href="mailto:lramirez.ramos@iteso.mx">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
 </div>
 
-<br />
+<details>
+<summary><b>📊 Detailed Tech Stack (Click to expand)</b></summary>
 
-<!-- ABOUT SECTION -->
+```yaml
+devops_and_cloud:
+  iac: [Terraform, Azure, AWS]
+  cicd: [Azure DevOps, GitHub Actions]
+  containers: [Docker, multi-stage builds]
+  monitoring: [Application Insights, distributed tracing]
 
-🚀 About Me
-
-I am a Computer Systems Engineering student (graduating Dec 2026) specializing in DevOps and Data Engineering.
-
-My career path is unique: I spent time as a Technical Project Manager leading AI teams before realizing my true calling was in the trenches—building the systems myself.
-
-The "Hybrid" Edge: I don't just deploy infrastructure; I understand why the business needs it. I combine rigorous engineering with the ability to manage stakeholders, document effectively (OpenSpec), and reduce scope creep.
-
-<!-- TECH STACK SECTION -->
-
-🛠️ The Toolkit
-
-<div align="center">
-<!-- Cloud & DevOps Icons -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Terraform-7B42BC%3Fstyle%3Dfor-the-badge%26logo%3Dterraform%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure_DevOps-0078D7%3Fstyle%3Dfor-the-badge%26logo%3Dazure-devops%26logoColor%3Dwhite" />
-
-
-
-
-
-<!-- Data & Dev Icons -->
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache_Spark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapache-spark%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" />
-</div>
-
-# Technical Capabilities
-devops_engineer:
-  iac:       [Terraform, Azure Resource Manager]
-  cloud:     [Azure (Expertise), AWS]
-  cicd:      [Azure DevOps Pipelines, GitHub Actions]
-  container: [Docker, Multi-stage Builds]
-
-data_engineer:
+data_engineering:
   streaming: [Apache Kafka, Spark Structured Streaming]
-  processing:[PySpark, ETL Architecture]
-  ml_ops:    [Scikit-learn, Random Forest Pipelines]
-  storage:   [PostgreSQL, Parquet, Vector DBs]
+  databases: [PostgreSQL, Prisma ORM]
+  pipelines: [ETL architecture, real-time processing]
+  ml: [scikit-learn, Random Forest, data preprocessing]
 
-fullstack:
-  stack:     [Next.js 14, Node.js, Express, Prisma]
-  quality:   [Jest, Playwright, 70%+ Coverage Standards]
+development:
+  languages: [TypeScript, Python, JavaScript, SQL]
+  frameworks: [Next.js 14, Node.js, Express, React]
+  testing: [Jest, Playwright, 70%+ coverage standards]
+  auth_payments: [Clerk, Stripe]
 
+ai_systems:
+  apis: [OpenAI, Anthropic Claude, Google AI]
+  frameworks: [OpenSpec, SpecKit, n8n]
+  applications: [RAG, Vector Search, Chatbots/Voicebots]
+  production_scale: [500+ calls/month, 60% ops scaling]
+```
 
-<!-- STATS SECTION -->
+</details>
 
-📊 GitHub Analytics
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 [ReparaYa](https://github.com/luci-efe/ReparaYa)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/luci-efe/ReparaYa)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/luci-efe/ReparaYa)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://github.com/luci-efe/ReparaYa)
+
+**Full-stack Marketplace Platform**
+
+Service marketplace connecting clients with contractors
+
+🔹 3-layer modular architecture (9 domains)  
+🔹 >70% test coverage (Jest + Playwright)  
+🔹 Terraform IaC for AWS resources  
+🔹 OpenSpec-driven development  
+🔹 CI/CD with GitHub Actions  
+
+[🔗 Live Demo](https://repara-ya-mu.vercel.app) • [📖 Docs](https://github.com/luci-efe/ReparaYa)
+
+</td>
+<td width="50%">
+
+### ⚙️ [LifeSync](https://github.com/luci-efe/lifesync)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://github.com/luci-efe/lifesync)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/luci-efe/lifesync)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://github.com/luci-efe/lifesync)
+
+**Complete DevOps Lifecycle**
+
+Personal organization app showcasing DevOps best practices
+
+🔹 Terraform IaC (Azure infrastructure)  
+🔹 Azure DevOps pipelines  
+🔹 Docker containerization  
+🔹 Application Insights monitoring  
+🔹 Dev/Prod environments  
+
+[📖 Docs](https://github.com/luci-efe/lifesync)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 [Big Data Pipelines](https://github.com/pcamarillor/O2025_ESI3914O/pull/149)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/pcamarillor/O2025_ESI3914O/pull/149)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://github.com/pcamarillor/O2025_ESI3914O/pull/149)
+[![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)](https://github.com/pcamarillor/O2025_ESI3914O/pull/149)
+
+**Streaming & ML Pipelines**
+
+Real-time data processing and ML classification
+
+🔹 Kafka + Spark Structured Streaming  
+🔹 Random Forest ML pipeline  
+🔹 Time-based Parquet partitioning  
+🔹 IoT sensor data processing  
+🔹 End-to-end ML workflow  
+
+[📖 View PR](https://github.com/pcamarillor/O2025_ESI3914O/pull/149)
+
+</td>
+<td width="50%">
+
+### 🤖 AI Systems Portfolio
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://github.com/luci-efe)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/luci-efe)
+
+**Production AI Automation**
+
+Conversational AI systems at scale
+
+🔹 6 production voicebots (500+ calls/month)  
+🔹 60% operational scaling achieved  
+🔹 RAG & Vector Search engines  
+🔹 OpenAI + Anthropic integration  
+🔹 Real estate chatbot systems  
+
+*Work experience at TendencIA*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 AI-Augmented Development Expertise
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dluci-efe%26show_icons%3Dtrue%26theme%3Dmidnight-owl%26hide_border%3Dtrue%26count_private%3Dtrue" height="160" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dluci-efe%26layout%3Dcompact%26theme%3Dmidnight-owl%26hide_border%3Dtrue" height="160" alt="languages graph" />
+
+### 🚀 OpenSpec & SpecKit Frameworks
+
+<img src="https://img.shields.io/badge/Spec--Driven_Development-6A5ACD?style=for-the-badge" alt="Spec-Driven Development"/>
+<img src="https://img.shields.io/badge/30%25_Scope_Creep_Reduction-00C853?style=for-the-badge" alt="30% Scope Creep Reduction"/>
+
 </div>
 
-<!-- PROJECTS SECTION -->
+```mermaid
+graph LR
+    A[📐 Define Specs] --> B[🤖 AI Collaboration]
+    B --> C[👥 Team Alignment]
+    C --> D[🔍 Code Review]
+    D --> E[✅ Quality Delivery]
+    
+    style A fill:#6A5ACD,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#2196F3,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#FF9800,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff
+```
 
-🏗️ Featured Projects
+**What This Means:**
+- 📐 **Spec-driven development**: Define architecture and contracts before implementation
+- 🤖 **AI collaboration**: Structured context for Claude Code, GitHub Copilot, and other AI tools
+- 👥 **Team alignment**: Clear specifications reduce miscommunication and rework
+- 🔍 **Automated consistency**: CodeRabbit integration for quality checks
 
-Project
+**Real Impact:** ReparaYa's `/openspec/` folder contains complete architectural specs enabling seamless AI-assisted development across an 8-person team.
 
-Description & Tech
+---
 
-☁️ LifeSync 
-
-
-
- DevOps & IaC
-
-Goal: A masterclass in minimal DevOps implementation.
-
-
-
-• Managed via Terraform on Azure.
-
-
-
-• CI/CD: Lint → Test → Docker Build → Deploy.
-
-
-
-🛒 ReparaYa 
-
-
-
- Scalable Platform
-
-Goal: Full-stack system with rigorous Engineering Standards.
-
-
-
-• Quality: >70% Test Coverage (Jest + Playwright).
-
-
-
-• Teamwork: Built using OpenSpec framework.
-
-
-
-📡 Big Data Pipelines 
-
-
-
- Streaming & ML
-
-Goal: Simulate and process massive IoT log data.
-
-
-
-• Flow: Kafka Producer -> Spark Structured Streaming -> Parquet.
-
-
-
-• ML: Random Forest for credit classification.
-
-
-
-<!-- EXPERIENCE SECTION -->
-
-💼 Experience Highlight
-
-🛡️ InfoSec Analyst @ Eternal Data
-
-Conducting threat intel analysis & ransomware research for clients like Cinépolis.
-
-🤖 Tech PM & AI Developer @ TendencIA
-
-Built production voicebots (500+ calls/mo) and reduced scope creep by 30% using OpenSpec.
-
-<!-- FOOTER SECTION -->
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-<h3>🎯 The "Secret Sauce": OpenSpec</h3>
-<p>I advocate for <b>AI-Augmented Development</b>. Defining architecture before coding allows me to align AI tools (Claude/Copilot) with human logic.</p>
 
-<a href="mailto:lramirez.ramos@iteso.mx">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Let%27s_Work_Together-Contact_Me-blue%3Fstyle%3Dfor-the-badge" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Fernando's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luci-efe&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+### 📈 Contributions Overview
+
+<div align="center">
+
+| 📦 Repositories | 🔀 Pull Requests | 💻 Contributions | ⭐ Stars |
+|:---------------:|:----------------:|:----------------:|:--------:|
+| **20+** public | **25+** merged | **257** last year | **2** earned |
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🔹 AI Systems Developer & Technical PM @ TendencIA (Nov 2024 - May 2025)</b></summary>
+
+<br>
+
+**Key Achievements:**
+- 🚀 Built 6 production voicebots processing **500+ calls/month**, scaling law firm operations by **60%**
+- 👥 Led cross-functional teams of **8 people** delivering concurrent AI automation projects
+- 📐 Implemented **OpenSpec framework** reducing scope creep by **30%**
+- 🏗️ Architected solutions integrating **n8n, OpenAI, Anthropic, Supabase**
+- 🏡 Built AI chatbot for real estate projects creating **high-quality weekly leads**
+
+**Tech Stack:** n8n, Vapi, Retell.ai, OpenAI, Anthropic, Supabase, PostgreSQL, Digital Ocean
+
+</details>
+
+<details open>
+<summary><b>🔹 Information Security Analyst @ Eternal Data (Oct 2024 - Present)</b></summary>
+
+<br>
+
+**Responsibilities:**
+- 🔒 Conduct weekly **ransomware threat intelligence** analysis for Cinépolis
+- 🔍 Research **vulnerability assessment** to mitigate targeted attacks
+- 📊 Deliver actionable security reports covering global incidents with **Mexico focus**
+- 🛡️ Monitor emerging cybersecurity threats and attack vectors
+
+**Impact:** Established systematic threat intelligence reporting process
+
+</details>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Education
+**Computer Systems Engineering**  
+ITESO University  
+📅 2022 - 2026 (December)  
+📍 Guadalajara, Mexico
+
+</td>
+<td width="50%">
+
+### 📜 Certifications
+✅ **Google:** Agile PM & Cybersecurity Risk Mgmt  
+✅ **Cisco:** CCNA v7 (Networks, Routing, Wireless)  
+✅ **IBM:** Generative AI & Project Management  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Fernando's<br/>Learning Path))
+    Advanced Patterns
+      Kafka event-driven architectures
+      Advanced streaming patterns
+      Event sourcing & CQRS
+    Cloud Native
+      Kubernetes orchestration
+      Service mesh (Istio)
+      Multi-cloud strategies
+    MLOps
+      Model deployment pipelines
+      Monitoring ML in production
+      A/B testing frameworks
+    Advanced IaC
+      Terraform modules patterns
+      Multi-cloud deployments
+      GitOps workflows
+```
+
+</div>
+
+---
+
+## 🏅 Achievements & Highlights
+
+<div align="center">
+
+| 🎯 Achievement | 📊 Metric | 💡 Impact |
+|:--------------|:---------:|:----------|
+| **Operational Scaling** | 60% increase | Law firm client intake automation |
+| **Production Systems** | 500+ calls/month | 6 voicebots in production |
+| **Team Leadership** | 8-person team | Cross-functional AI projects |
+| **Scope Management** | 30% reduction | OpenSpec implementation |
+| **Test Coverage** | 70%+ | ReparaYa marketplace platform |
+| **Infrastructure** | Multi-cloud | Terraform IaC on AWS & Azure |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### 🚀 Open to opportunities in DevOps, Data Engineering, and Cloud Infrastructure
+
+*Building scalable systems | AI-augmented workflows | Infrastructure as Code*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
+[![Email](https://img.shields.io/badge/Email-lramirez.ramos@iteso.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lramirez.ramos@iteso.mx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-foliox.site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
+
+<br>
+
+```typescript
+// Available for freelance projects and full-time opportunities
+const contact = {
+    location: "Guadalajara, Mexico 🇲🇽",
+    timezone: "CST (UTC-6)",
+    languages: ["Spanish (Native)", "English (Professional)"],
+    availability: "Open to remote & hybrid roles",
+    interests: ["DevOps", "Data Engineering", "Cloud Architecture", "AI Systems"]
+};
+```
+
+<br>
+
+### 💬 Let's Talk About
+
+**DevOps best practices** • **Real-time data pipelines** • **Cloud infrastructure**  
+**AI-augmented development** • **System architecture** • **Scaling applications**
+
+---
+
+<sub>💡 Open to collaborations, freelance projects, and full-time opportunities</sub>
+
+<sub>⭐️ If you find my projects interesting, consider starring them!</sub>
+
+<sub>📧 Response time: Usually within 24 hours</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 Profile Made with 💜 by Fernando Ramos
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**Thanks for visiting! 🚀**
+
+![](https://hit.yhype.me/github/profile?user_id=188122451)
+
 </div>
