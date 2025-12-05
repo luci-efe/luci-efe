@@ -296,61 +296,6 @@ graph LR
 
 ---
 
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education
-**Computer Systems Engineering**  
-ITESO University  
-📅 2022 - 2026 (December)  
-📍 Guadalajara, Mexico
-
-</td>
-<td width="50%">
-
-### 📜 Certifications
-✅ **Google:** Agile PM & Cybersecurity Risk Mgmt  
-✅ **Cisco:** CCNA v7 (Networks, Routing, Wireless)  
-✅ **IBM:** Generative AI & Project Management  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌱 Currently Learning & Exploring
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Fernando's<br/>Learning Path))
-    Advanced Patterns
-      Kafka event-driven architectures
-      Advanced streaming patterns
-      Event sourcing & CQRS
-    Cloud Native
-      Kubernetes orchestration
-      Service mesh (Istio)
-      Multi-cloud strategies
-    MLOps
-      Model deployment pipelines
-      Monitoring ML in production
-      A/B testing frameworks
-    Advanced IaC
-      Terraform modules patterns
-      Multi-cloud deployments
-      GitOps workflows
-```
-
-</div>
-
----
-
 ## 🏅 Achievements & Highlights
 
 <div align="center">
@@ -362,38 +307,10 @@ mindmap
 | **Team Leadership** | 8-person team | Cross-functional AI projects |
 | **Scope Management** | 30% reduction | OpenSpec implementation |
 | **Test Coverage** | 70%+ | ReparaYa marketplace platform |
-| **Infrastructure** | Multi-cloud | Terraform IaC on AWS & Azure |
 
 </div>
 
 ---
-
-## 📫 Let's Connect
-
-<div align="center">
-
-### 🚀 Open to opportunities in DevOps, Data Engineering, and Cloud Infrastructure
-
-*Building scalable systems | AI-augmented workflows | Infrastructure as Code*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
-[![Email](https://img.shields.io/badge/Email-lramirez.ramos@iteso.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lramirez.ramos@iteso.mx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-foliox.site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://foliox.site/luci-efe)
-
-<br>
-
-```typescript
-// Available for freelance projects and full-time opportunities
-const contact = {
-    location: "Guadalajara, Mexico 🇲🇽",
-    timezone: "CST (UTC-6)",
-    languages: ["Spanish (Native)", "English (Professional)"],
-    availability: "Open to remote & hybrid roles",
-    interests: ["DevOps", "Data Engineering", "Cloud Architecture", "AI Systems"]
-};
-```
 
 <br>
 
@@ -414,14 +331,5 @@ const contact = {
 
 ---
 
-<div align="center">
-
-### 🎨 Profile Made with 💜 by Fernando Ramos
-
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Thanks for visiting! 🚀**
-
-![](https://hit.yhype.me/github/profile?user_id=188122451)
-
-</div>
