@@ -14,7 +14,7 @@
 
 <br/>
 
-Most of my time goes into agentic harnesses, orchestration layers, and the coordination problems that show up once you have more than one agent working on the same spec: handoffs, shared memory, supervision, recovery, and figuring out how to trust what a fleet of agents just did. I co-founded **Agentic Engineering**, where we design multi-agent workflows for real production use cases (legal AI, voice/WhatsApp automation, IoT), not demos. 
+Most of my time goes into agentic harnesses, orchestration layers, and the coordination problems that show up once you have more than one agent working on the same problem — handoffs, shared memory, supervision, recovery, and figuring out how to trust what a fleet of agents just did. I co-founded **Agentic Engineering**, where we design multi-agent workflows for real production use cases (legal AI, voice/WhatsApp automation, IoT), not demos. Outside of that I'm usually deep in Blender, retro emulation, or a manga backlog.
 
 <br/>
 
@@ -54,7 +54,7 @@ Also in the mix: Mastra, RAG, MCP, A2A, LLM eval/observability (Langfuse), pgvec
 
 <img src="https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luci-efe&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=luci-efe&theme=tokyonight" />
 
 </div>
 
