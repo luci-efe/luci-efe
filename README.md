@@ -62,15 +62,19 @@ Also in the mix: Mastra, RAG, MCP, A2A, LLM eval/observability (Langfuse), pgvec
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luci-efe&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luci-efe&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luci-efe&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=luci-efe&theme=tokyonight&hide_border=true&type=weekly&hide_total_contributions=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luci-efe/luci-efe/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luci-efe/luci-efe/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luci-efe/luci-efe/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/luci-efe/luci-efe/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
