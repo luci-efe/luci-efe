@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fernando Ramos
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Agentic+harnesses+%26+multi-agent+orchestration;Technical+Lead+%40+Agentic+Engineering;Building+systems+that+coordinate,+not+just+code;Zapopan%2C+Jalisco%2C+Mexico" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Building+systems+that+coordinate,+not+just+code)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ramos-654514262)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fernandoramos.work/)
@@ -18,7 +18,7 @@ Most of my time goes into agentic harnesses, orchestration layers, and the coord
 
 <br/>
 
-### 🧰 Open Source — Agentic Engineering Tooling
+### 🧪 Open Source — Agentic Engineering Tooling
 
 Three systems I've built for reliable, spec-driven AI-assisted software engineering:
 
@@ -26,11 +26,12 @@ Three systems I've built for reliable, spec-driven AI-assisted software engineer
 - **[Seshat](https://github.com/Agentic-Engineering-Agency/pi-seshat)** — an agentic engineering harness pairing specialized coding agents with durable memory, safety gates, and full auditability for spec-driven development.
 - **[SpecSafe](https://specsafe.agenticengineering.lat/)** — a tool-agnostic framework and CLI that enforces specification, test-driven implementation, verification, and human approval across AI coding tools.
 
-<br/>
+### 🌟 A Couple Other Things I've Built
 
-### 🛠️ Tech Stack
+- **SensorGrid** — a LoRaWAN-to-cloud cold-chain monitoring platform (ISO/IEC 30141) that caught real NOM-251 food-safety violations at an ITESO campus venue and drove an ~81% reduction in critical-temperature time. 🏆 2nd place, 3er Congreso de Ingenierías del Sistema Universitario Jesuita (SUJ), 2026. → [Live Demo](https://demo.sensorgrid.site/overview) · [Landing](https://landing.sensorgrid.site/)
+- **[MemSWE](https://memswe.com)** — an agent-memory benchmark measuring coding-agent correctness, latency, and cost across 360 runs and six memory strategies.
 
-<div align="center">
+### 🛠️ What I Work With
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,36 +46,22 @@ Three systems I've built for reliable, spec-driven AI-assisted software engineer
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
-</div>
-
 Also in the mix: Mastra, RAG, MCP, A2A, LLM eval/observability (Langfuse), pgvector, agent memory, model routing, Vapi, n8n, ElevenLabs, Grafana, OpenTelemetry, Azure DevOps, GitHub Actions.
-
-<br/>
-
-### 🌟 A Couple Other Things I've Built
-
-- **[SensorGrid](https://demo.sensorgrid.site)** — a LoRaWAN-to-cloud cold-chain monitoring platform (ISO/IEC 30141) that caught real NOM-251 food-safety violations at an ITESO campus venue and drove an ~81% reduction in critical-temperature time. 🏆 2nd place, 3er Congreso de Ingenierías del Sistema Universitario Jesuita (SUJ), 2026.
-- **[MemSWE](https://memswe.com)** — an agent-memory benchmark measuring coding-agent correctness, latency, and cost across 360 runs and six memory strategies.
-
-<br/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luci-efe&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com/?user=luci-efe&theme=tokyonight&hide_border=true&type=weekly&hide_total_contributions=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luci-efe&theme=tokyonight" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luci-efe/luci-efe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luci-efe/luci-efe/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/luci-efe/luci-efe/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 
 </div>
