@@ -14,7 +14,7 @@
 
 <br/>
 
-Most of my time goes into agentic harnesses, orchestration layers, and the coordination problems that show up once you have more than one agent working on the same problem — handoffs, shared memory, supervision, recovery, and figuring out how to trust what a fleet of agents just did. I co-founded **Agentic Engineering**, where we design multi-agent workflows for real production use cases (legal AI, voice/WhatsApp automation, IoT), not demos. Outside of that I'm usually deep in Blender, retro emulation, or a manga backlog.
+Most of my time goes into agentic harnesses, orchestration layers, and the coordination problems that show up once you have more than one agent working on the same spec or issue: handoffs, shared memory, supervision, recovery, and figuring out how to trust what a fleet of agents just did. I co-founded **Agentic Engineering**, where we design multi-agent workflows for real production use cases (legal AI, voice/WhatsApp automation, IoT), not demos. Outside of that I'm usually deep in Blender, retro emulation, or a manga backlog.
 
 <br/>
 
