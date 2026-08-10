@@ -52,7 +52,7 @@ Also in the mix: Mastra, RAG, MCP, A2A, LLM eval/observability (Langfuse), pgvec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api?username=luci-efe&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=luci-efe&theme=tokyonight" />
 
